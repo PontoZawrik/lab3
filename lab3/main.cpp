@@ -52,4 +52,7 @@ int main() {
 	}
 
 	cout << "Ğåçóëüòàò: " << result << endl;
+
+	system("pause");
+	return 0;
 }
